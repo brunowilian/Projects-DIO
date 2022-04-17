@@ -1,0 +1,16 @@
+.animes {
+    margin-top: 25px;
+    color: var(--vermelho);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.container .carousel-acao, .carousel-magia {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.name {
+   
+    margin-left: 15px;
+}
