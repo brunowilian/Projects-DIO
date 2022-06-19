@@ -25,8 +25,8 @@ const App: React.FC = () => {
           style={toggle ? style.lightingOn : style.lightingOff}
           source={
             toggle
-              ? require('./assets/icons/07.jpeg')
-              : require('./assets/icons/q2.jpeg')
+              ? require('./assets/icons/eco-light-off.png')
+              : require('./assets/icons/eco-light.png')
           }
         />
       </TouchableOpacity>
